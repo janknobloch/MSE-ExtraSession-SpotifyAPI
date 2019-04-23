@@ -1,1 +1,1 @@
-# MSE18-ExtraSession-SpotifyAPI
+# MSE-ExtraSession-SpotifyAPI
